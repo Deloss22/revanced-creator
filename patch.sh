@@ -197,5 +197,5 @@ main() {
 	patch
 	exit 0
 }
-
+additional_args="-e enable-wide-searchbar -e hide-shorts-button -e hide-autoplay-button"
 main
